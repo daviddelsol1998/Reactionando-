@@ -1,0 +1,22 @@
+body {
+    background-color: #FAF0D7;
+}
+
+
+
+.profile-pic {
+    width: 250px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.title {
+    text-decoration: underline;
+}
+
+
+
+.p-table {
+    text-align: center;
+}
+
