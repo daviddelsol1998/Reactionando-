@@ -13,6 +13,12 @@ h1 {
     font-family: 'Pacifico', cursive;
 }
 
+.pic {
+    padding-top: 20px;
+    width: 15%;
+    border-radius: 100%;
+}
+
 .top-container {
   padding-top: 80px;
   background-color: #FEFBE7;
