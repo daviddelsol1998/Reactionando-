@@ -1,7 +1,19 @@
 body {
-    background-color: #FAF0D7;
+    background-color: #E8F9FD;
 }
 
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 30%;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto; 
+}
 
 
 .profile-pic {
@@ -14,9 +26,17 @@ body {
     text-decoration: underline;
 }
 
+h1 {
+    color: #0AA1DD;
+}
+
+p {
+    padding: 20px;
+}
 
 
-.p-table {
+.p-table, h3, .link {
     text-align: center;
+    color: #79DAE8
 }
 
