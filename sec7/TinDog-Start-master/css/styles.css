@@ -1,0 +1,173 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+}
+
+a {
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.brand {
+  font-size: 3.2rem;
+  margin-right: 20rem;
+}
+
+.card {
+  text-align: center;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.feature-icon {
+    color: #ef8172;
+    font-size: 3.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.feature-icon:hover {
+    color: #ff4c68
+}
+
+
+
+
+
+.container-fluid {
+  padding: 3% 15% 4%;
+}
+
+
+.download-btn {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  margin-right: 1rem;
+}
+
+.nav-bar {
+  margin-bottom: 1.5rem;
+}
+
+.nav-container {
+  padding-left: 0px;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+
+.page-header {
+  color: white;
+  margin-bottom: 1.5rem;
+}
+
+.plan-heading {
+  margin: 50px;
+
+}
+
+.press-pic {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.social i {
+  padding: 1.5rem;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+#cta {
+  background-color: #ff4c68;
+  padding: 200px;
+  text-align: center;
+  color: white;
+}
+
+#features {
+    padding: 2rem;
+    text-align: center;
+    background-color: white;
+    z-index: 1;
+    position: relative;
+}
+
+#footer {
+  background-color: #fff;
+  padding: 100px;
+  text-align: center;
+}
+
+#footer p {
+  color: gainsboro
+}
+
+#phone {
+  transform: rotate(25deg);
+  width: 20rem;
+  position: absolute;
+  left: 57%;
+  bottom: 7%;
+  
+}
+
+@media (max-width: 1028px) {
+  #phone {
+    position: static;
+    transform: rotate(0)
+  }
+
+  .page-header {
+    text-align: center;
+  }
+
+  #title {
+    text-align: center;
+  }
+
+  .brand {
+    font-size: 3.2rem;
+    margin-right: 0rem;
+  }
+  
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+#pricing {
+  margin: 30px;
+}
+
+
