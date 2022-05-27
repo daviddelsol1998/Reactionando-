@@ -15,6 +15,10 @@ h1 {
     padding-bottom: 1.5rem;
 }
 
+.feature-icon:hover {
+    color: #ff4c68
+}
+
 .brand {
   font-family: "Ubuntu", sans-serif;
   font-size: 3.2rem;
